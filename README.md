@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Kozak15 👋</h1>
 <p align="center">
   <strong>Student | Python Hobbyist | Aspiring Card Shark</strong><br />
-  <em>Life is short, do your best, fuck the world.</em>
+  <em>Always give 100% in everything you do except donating blood.</em>
 </p>
 
 ---
