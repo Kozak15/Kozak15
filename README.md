@@ -43,11 +43,13 @@ A Python adventure with random encounters, custom weapons, food, and hidden achi
 
 ### 🛠️ Skills
 
-- **Languages:** Python (main), BASIC (studying), C++ (studying), a bit of C and Java
+- **Languages:** Python (main), BASIC (studying), C++ (studying)
 - **Not afraid to:**  
   - Dive into huge side projects  
   - Write long, sarcastic comments  
   - Try new tech, break stuff, repeat
+  - Lie on my README.md
+  
 
 ---
 
