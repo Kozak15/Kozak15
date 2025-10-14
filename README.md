@@ -49,6 +49,7 @@ A Python adventure with random encounters, custom weapons, food, and hidden achi
   - Write long, sarcastic comments  
   - Try new tech, break stuff, repeat
   - Lie on my README.md
+  - Use github as storage
   
 
 ---
