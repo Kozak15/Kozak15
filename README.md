@@ -77,9 +77,7 @@ A Python adventure with random encounters, custom weapons, food, and hidden achi
   </blockquote>
 </details>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY5Z2hvN2o3Zmx5azBtM3d2ZWc5OTB6dTgwdnZ2aW4yMGQ5bXNjbyZlcD12MV9naWZzX3NlYXJjaCZjdD1z/euV7F5p1pS1Re/giphy.gif" alt="Cardistry GIF" width="250"/>
-</p>
+
 
 ---
 
