@@ -1,33 +1,31 @@
 <!-- Kozak15's GitHub Profile README -->
 
-<h1 align="center">Hey, I'm Kozak15 👋</h1>
+<h1 align="center">Poor life choices</h1>
 <p align="center">
-  <strong>Student | Python Hobbyist | Aspiring Card Shark</strong><br />
   <em>Always give 100% in everything you do except donating blood.</em>
 </p>
 
 ---
 
-### 👨‍🎓 About Me
+### About Me
 
-- 📚 Pre-University student at a junior college  
-- 🐍 Python enthusiast  
-- 💾 Studying BASIC and C++  
-- 🎮 Built a (very) text-based RPG from scratch—ask me for the code or scroll down!  
-- ♣️ I can count cards and do cardistry—yes, really.
+- Junior college students 
+- Python enthusiast  
+- Studying BASIC and C++   
+- I can count cards
 
 ---
 
-### 💻 My Favorite Project
+### My Favorite Project
 
-#### 🗡️ Text-Based RPG
-> “Titles were supposed to give you extra buffs, but I got so depressed making it I gave up.”  
+#### Text-Based RPG
+> “but I got so depressed making it I gave up.”  
 A Python adventure with random encounters, custom weapons, food, and hidden achievements.  
 <details>
   <summary>Check out the code!</summary>
 
   ```python
-  # Sample excerpt from Kozak15's RPG
+  # Sample excerpt from RPG
   class players():
       def __init__(self, name , hp , damage):
           self.name = name
@@ -36,12 +34,12 @@ A Python adventure with random encounters, custom weapons, food, and hidden achi
           # ... (many, many more features)
   ```
 
-  <sub>Want the full game? DM me or check my pinned repos!</sub>
+  <sub>Want the full game? Check out the repo</sub>
 </details>
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 - **Languages:** Python (main), BASIC (studying), C++ (studying)
 - **Not afraid to:**  
@@ -54,7 +52,7 @@ A Python adventure with random encounters, custom weapons, food, and hidden achi
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kozak15-181717?style=flat&logo=github)](https://github.com/Kozak15)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cayden%20Chiam-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/cayden-chiam-24166b313/)
@@ -62,11 +60,10 @@ A Python adventure with random encounters, custom weapons, food, and hidden achi
 
 ---
 
-### 🤹 Fun Facts
+### Fun Facts
 
-- 🃏 I can count cards (seriously)
-- 🎴 I practice cardistry (fancy card shuffling)
-- 💀 I think “git gud” is a valid life philosophy
+- I edit wikipedia :)
+- I make poor life choices
 
 ---
 
