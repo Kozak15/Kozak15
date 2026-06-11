@@ -9,7 +9,6 @@
 
 ### About Me
 
-- Junior college students 
 - Python enthusiast  
 - Studying BASIC and C++   
 - I can count cards
