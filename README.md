@@ -42,7 +42,6 @@ A Python adventure with random encounters, custom weapons, food, and hidden achi
 ### Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kozak15-181717?style=flat&logo=github)](https://github.com/Kozak15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cayden%20Chiam-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/cayden-chiam-24166b313/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-dggrgr1-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/dggrgr1/)
 
 ---
