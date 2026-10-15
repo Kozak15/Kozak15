@@ -17,33 +17,21 @@
 
 ### My Favorite Project
 
-#### Text-Based RPG
-> “but I got so depressed making it I gave up.”  
+#### Webscraper for gooners
+> "It's a private repo, but I am willing to share the source code"  
 A Python adventure with random encounters, custom weapons, food, and hidden achievements.  
 <details>
-  <summary>Check out the code!</summary>
-
-  ```python
-  # Sample excerpt from RPG
-  class players():
-      def __init__(self, name , hp , damage):
-          self.name = name
-          self.hp = hp
-          self.damage = damage
-          # ... (many, many more features)
-  ```
-
-  <sub>Want the full game? Check out the repo</sub>
+  Throughout heaven and earth, I alone am the gooner one
 </details>
 
 ---
 
 ### Skills
 
-- **Languages:** Python (main), BASIC (studying), C++ (studying)
+- **Languages:** Python, SQL, C++, Lua, HTML
 - **Not afraid to:**  
-  - Dive into huge side projects  
-  - Write long, sarcastic comments  
+  - Dive into huge side projects
+  - Write long, sardonic comments  
   - Try new tech, break stuff, repeat
   - Lie on my README.md
   - Use github as storage
@@ -67,9 +55,9 @@ A Python adventure with random encounters, custom weapons, food, and hidden achi
 ---
 
 <details>
-  <summary>Random Quote from My RPG</summary>
+  <summary>One liner</summary>
   <blockquote>
-    “Your free trial of living has ended”
+    "Never spend 5 minutes doing something when you can spend 8 hours failing to automate it"
   </blockquote>
 </details>
 
@@ -77,4 +65,4 @@ A Python adventure with random encounters, custom weapons, food, and hidden achi
 
 ---
 
-<sub>“Stay strapped or get clapped.” — Also from my RPG</sub>
+<sub>“Stay strapped or get clapped.”</sub>
