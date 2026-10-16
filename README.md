@@ -18,7 +18,7 @@
 ### My Favorite Project
 
 #### Webscraper for gooners
-> "It's a private repo, but I am willing to share the source code"  
+It's a private repo, but I am willing to share the source code
 A Python adventure with random encounters, custom weapons, food, and hidden achievements.  
 <details>
   Throughout heaven and earth, I alone am the gooner one
