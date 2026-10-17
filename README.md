@@ -18,8 +18,8 @@
 ### My Favorite Project
 
 #### Webscraper for gooners
-It's a private repo, but I am willing to share the source code
-A Python adventure with random encounters, custom weapons, food, and hidden achievements.  
+It's a private repo, but I am willing to share the source code.
+A Python adventure with depression,software errors, and nothingburgers.  
 <details>
   Throughout heaven and earth, I alone am the gooner one
 </details>
